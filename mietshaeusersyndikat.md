@@ -1,7 +1,4 @@
----
-layout: page 
-title: "Das Mietshäusersyndikat"
----
+# Das Mietshäusersyndikat 
 
 Das Mietshäusersyndikat wurde 1992 in Freiburg/Breisgau gegründet und umfasst als Organisation und Solidarverbund mittlerweile über 100 Projekte in ganz Deutschland. Die einzelnen Projekte unterscheiden sich u.a. hinsichtlich der Wohn- bzw. Nutzfläche, der Finanzierungssummen, der Altersstruktur und Anzahl der Bewohner*innen. Jedoch ist jedes der Projekte in einem Hausverein selbstorganisiert und hat sich verpflichtet, Beiträge in einen gemeinschaftlich verwalteten Solidarfonds einzuzahlen.
 
