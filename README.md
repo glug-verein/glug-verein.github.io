@@ -1,10 +1,6 @@
----
-title: "Kontakt"
-layout: page
----
-
 ## Kontakt 
 
+Hier könnt ihr uns demnächst erreichen. 
 
 ## Screenshots
 
