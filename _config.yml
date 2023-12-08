@@ -17,7 +17,7 @@ minimal: false             # use a dark header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.html", title: "Wer wir sind"}
-  - {file: "mietshaeusersyndikat.html", title: "Mietshäusersyndikat"}
+  - {file: "mietshaeusersyndikat.md", title: "Mietshäusersyndikat"}
   - {file: "direktkredite.md", title: "Direktkredite"}
   - {file: "README.md", title: "Kontakt"}
 
