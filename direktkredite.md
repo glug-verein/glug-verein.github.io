@@ -1,4 +1,6 @@
-# Direktkredite und Leihgemeinschaften 
+---
+title: Direktkredite und Leihgemeinschaften 
+---
 
 Unser Hauptaugenmerk bei der Finanzierung liegt bei den Direktkrediten. Das sind Kleinkredite, die uns von unseren Familien, Freund:innen und Unterstützer:innen gegeben werden. Direktkredite werden von der IFB als Eigenkapital bewertet, sie dienen somit der Absicherung der großen Bankkredite. Das heißt jedoch auch für den Fall, dass die Genossenschaft insolvent gehen sollte, zunächst die Banken das Geld bekommen. Bei den Direktkrediten handelt es sich also um Nachrangdarlehen.
 
